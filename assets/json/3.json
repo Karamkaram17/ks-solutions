@@ -7,6 +7,7 @@
 		"mainLang": "en",
 		"phoneNumber": "+9613574574",
 		"displayedPhoneNumber": "03 574 574",
+		"template": 3,
 		"storeId": 1,
 		"storeLogo": "assets/imgs/moonlight.png",
 		"storeName": "Moonlight",
@@ -16,7 +17,7 @@
 			"locationTranslation": { "ar": "اهدن" },
 			"locationUrl": "https://goo.gl/maps/KHyCns9iBLu6aGkE8",
 			"instagramUrl": "https://www.instagram.com/moonlightehden?igsh=dzk3MjBmdXlyOWh4",
-			"facebookUrl": ""
+			"facebookUrl": "hg"
 		},
 		"aboutUs": "Founded in 1989, our family-owned restaurant nestled in the charming town of Ehden is a culinary gem with a rich history and tradition. With deep roots in the local community, we take pride in offering a warm and inviting atmosphere where guests feel like part of the family. From generation to generation, our commitment to excellence shines through in every dish we serve, showcasing the finest flavors of Lebanese cuisine. Step into our restaurant and embark on a gastronomic journey that celebrates our passion for food, family, and tradition. Experience the warmth of Lebanese hospitality and the taste of authentic flavors that have delighted diners for over three decades.",
 		"aboutUsTranslation": {
